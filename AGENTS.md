@@ -7,8 +7,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 <!-- SPECKIT START -->
 ## Active Feature Plan
 
-**Branch**: `006-exponential-scoring-model`
-**Plan**: `specs/006-exponential-scoring-model/plan.md`
-**Spec**: `specs/006-exponential-scoring-model/spec.md`
-**Contracts**: `specs/006-exponential-scoring-model/contracts/scoring-api.md`
+**Branch**: `007-reveal-correct-values`
+**Plan**: `specs/007-reveal-correct-values/plan.md`
+**Spec**: `specs/007-reveal-correct-values/spec.md`
+**Contracts**: `specs/007-reveal-correct-values/contracts/puzzle-api.md`
 <!-- SPECKIT END -->
