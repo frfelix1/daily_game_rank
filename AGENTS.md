@@ -7,8 +7,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 <!-- SPECKIT START -->
 ## Active Feature Plan
 
-**Branch**: `005-dynamic-puzzle-generation`
-**Plan**: `specs/005-dynamic-puzzle-generation/plan.md`
-**Spec**: `specs/005-dynamic-puzzle-generation/spec.md`
-**Contracts**: `specs/005-dynamic-puzzle-generation/contracts/api-contracts.md`
+**Branch**: `006-exponential-scoring-model`
+**Plan**: `specs/006-exponential-scoring-model/plan.md`
+**Spec**: `specs/006-exponential-scoring-model/spec.md`
+**Contracts**: `specs/006-exponential-scoring-model/contracts/scoring-api.md`
 <!-- SPECKIT END -->
