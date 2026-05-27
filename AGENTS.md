@@ -7,8 +7,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 <!-- SPECKIT START -->
 ## Active Feature Plan
 
-**Branch**: `004-dev-ux-improvements`
-**Plan**: `specs/004-dev-ux-improvements/plan.md`
-**Spec**: `specs/004-dev-ux-improvements/spec.md`
-**Contracts**: `specs/004-dev-ux-improvements/contracts/component-interfaces.md`
+**Branch**: `005-dynamic-puzzle-generation`
+**Plan**: `specs/005-dynamic-puzzle-generation/plan.md`
+**Spec**: `specs/005-dynamic-puzzle-generation/spec.md`
+**Contracts**: `specs/005-dynamic-puzzle-generation/contracts/api-contracts.md`
 <!-- SPECKIT END -->
